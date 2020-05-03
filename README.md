@@ -8,7 +8,7 @@ qui héberge toutes les applications et les packages requis pour construire des 
 1. Suivez le processus d'installation par défaut.
 1. Démarrez wampserver en cliquant sur l'icône sur le bureau, ou dans le menu démarrer, vérifiez que tous les services sont en cours d'exécution en regardant l'icône wampserver dans le coin droit, elle devrait commencer en rouge puis devient jaune et éventuellement verte.
 
-### importation de la base de données :
+### Importation de la base de données :
 1. Ouvrez un navigateur Web et tapez localhost ou 127.0.0.1 dans la barre d'URL.
 1. Vous devriez obtenir la page d'accueil par défaut de wampserver, sous "Your Aliases" cliquez sur phpmyadmin et vous obtiendrez la page de connexion, choisissez mariadb et root comme nom d'utilisateur, mot de passe est vide.
 1. Vous créez 2 bases de données, la première nommée test et la seconde nommée toc_toc_medoc_3 les noms doivent correspondre aux noms des deux fichiers dans le dossier sql.
